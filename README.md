@@ -1,9 +1,9 @@
 ### Spring Webflux Demo App
 
-A sample application with REST endpoint created using Spring Webflux, Spring Boot and Spring Data Cassandra.
-This application uses embedded Cassandra.
+A sample **Spring Boot** application with REST endpoint created using **Spring Webflux**.
+This application uses **Spring Data Cassandra** along with **Embedded Cassandra**.
 
-#### Build Instructions
+#### Build and Run Instructions
 
 ```
 git clone https://github.com/suhaibkhan/spring-webflux-poc.git
