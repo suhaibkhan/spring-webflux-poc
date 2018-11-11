@@ -1,0 +1,11 @@
+
+server:
+  port: 8080
+
+spring:
+  data:
+    cassandra:
+      contact-points: localhost
+      port: 9142
+      keyspace-name: pockeyspace
+      schema-action: CREATE_IF_NOT_EXISTS
